@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9372e44d-6e54-43e9-a985-7590cda98ef8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\tools\repo_mine" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../tools/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\tools\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1hZmsKiXF4rHGYzkVtSlZdtBWjL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/service-sms/src/test/java/cn/dbdj1201/servicesms/TestDemo.java&#10;F:/car-temp/pack-3/outdoor/online-taxi-three/service-sms/src/test/java/cn/dbdj1201/servicesms/Test.java" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/service-sms/src/main/java/cn/dbdj1201/servicesms" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24597701" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.dbdj1201.apipassenger.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\car-temp\pack-3\outdoor\online-taxi-three\service-sms\src\main\java\cn\dbdj1201\servicesms" />
+      <recent name="F:\car-temp\pack-3\outdoor\online-taxi-three\service-sms\src\test\java\cn\dbdj1201\servicesms" />
+      <recent name="F:\car-temp\pack-3\outdoor\online-taxi-three\service-sms\src\main\java\cn\dbdj1201\servicesms\entity" />
+      <recent name="F:\car-temp\pack-3\outdoor\online-taxi-three\service-sms\src\main\java\cn\dbdj1201\servicesms\service\impl" />
+      <recent name="F:\car-temp\pack-3\outdoor\online-taxi-three\api-passenger\src\main\java\cn\dbdj1201\apipassenger\request" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install --debug" />
+      <command value="mvn clean install" />
+      <command value="mvn clean install -e" />
+      <command value="mvn clean install -X" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestDemo.test">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.dbdj1201.servicesms.CodeGenerator" />
+      <module name="service-sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.dbdj1201.servicesms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyCodeController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.dbdj1201.serviceverificationcode.controller.VerifyCodeController" />
+      <module name="service-verification-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.dbdj1201.serviceverificationcode.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.dbdj1201.servicesms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.dbdj1201.servicesms" />
+      <option name="MAIN_CLASS_NAME" value="cn.dbdj1201.servicesms.TestDemo" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiPassengerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api-passenger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.dbdj1201.apipassenger.ApiPassengerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudEurekaApplication40999" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.dbdj1201.cloudeureka.CloudEurekaApplication" />
+      <option name="ACTIVE_PROFILES" value="40999" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudEurekaApplication41000" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.dbdj1201.cloudeureka.CloudEurekaApplication" />
+      <option name="ACTIVE_PROFILES" value="41000" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudEurekaApplication41001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.dbdj1201.cloudeureka.CloudEurekaApplication" />
+      <option name="ACTIVE_PROFILES" value="41001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.dbdj1201.cloudzuul.CloudZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InternalCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="internal-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.dbdj1201.internalcommon.InternalCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicePassengerUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-passenger-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.dbdj1201.servicepassengeruser.ServicePassengerUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.dbdj1201.servicesms.ServiceSmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceVerificationCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-verification-code" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.dbdj1201.serviceverificationcode.ServiceVerificationCodeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.VerifyCodeController" />
+      <item itemvalue="Application.CodeGenerator" />
+      <item itemvalue="Spring Boot.CloudEurekaApplication40999" />
+      <item itemvalue="Spring Boot.CloudEurekaApplication41000" />
+      <item itemvalue="Spring Boot.CloudEurekaApplication41001" />
+      <item itemvalue="Spring Boot.ApiPassengerApplication" />
+      <item itemvalue="Spring Boot.InternalCommonApplication" />
+      <item itemvalue="Spring Boot.ServiceVerificationCodeApplication" />
+      <item itemvalue="Spring Boot.ServiceSmsApplication" />
+      <item itemvalue="Spring Boot.ServicePassengerUserApplication" />
+      <item itemvalue="Spring Boot.CloudZuulApplication" />
+      <item itemvalue="JUnit.TestDemo.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDemo.test" />
+        <item itemvalue="Application.CodeGenerator" />
+        <item itemvalue="Application.VerifyCodeController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9372e44d-6e54-43e9-a985-7590cda98ef8" name="Default Changelist" comment="" />
+      <created>1600227198541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600227198541</updated>
+      <workItem from="1600227212483" duration="11057000" />
+      <workItem from="1600302681643" duration="22124000" />
+      <workItem from="1600389632063" duration="19278000" />
+      <workItem from="1600418251351" duration="471000" />
+      <workItem from="1600420956436" duration="216000" />
+      <workItem from="1600421192818" duration="5347000" />
+      <workItem from="1600426602226" duration="2868000" />
+      <workItem from="1600563782652" duration="18194000" />
+      <workItem from="1600601181619" duration="1114000" />
+      <workItem from="1600649001272" duration="3569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" width="1174" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600236162550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1174" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600236162550" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1600596680178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600596680178" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600598991378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600598991378" />
+    <state x="761" y="344" key="FileChooserDialogImpl" timestamp="1600588138215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="344" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600588138215" />
+    <state width="1877" height="335" key="GridCell.Tab.0.bottom" timestamp="1600653545180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600653545180" />
+    <state width="1877" height="335" key="GridCell.Tab.0.center" timestamp="1600653545179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600653545179" />
+    <state width="1877" height="335" key="GridCell.Tab.0.left" timestamp="1600653545179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600653545179" />
+    <state width="1877" height="335" key="GridCell.Tab.0.right" timestamp="1600653545180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600653545180" />
+    <state width="1728" height="459" key="GridCell.Tab.1.bottom" timestamp="1600429472957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1728" height="459" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600429472957" />
+    <state width="1728" height="459" key="GridCell.Tab.1.center" timestamp="1600429472957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1728" height="459" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600429472957" />
+    <state width="1728" height="459" key="GridCell.Tab.1.left" timestamp="1600429472957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1728" height="459" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600429472957" />
+    <state width="1728" height="459" key="GridCell.Tab.1.right" timestamp="1600429472957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1728" height="459" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600429472957" />
+    <state width="1541" height="494" key="GridCell.Tab.2.bottom" timestamp="1600429255465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1541" height="494" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600429255465" />
+    <state width="1541" height="494" key="GridCell.Tab.2.center" timestamp="1600429255465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1541" height="494" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600429255465" />
+    <state width="1541" height="494" key="GridCell.Tab.2.left" timestamp="1600429255465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1541" height="494" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600429255465" />
+    <state width="1541" height="494" key="GridCell.Tab.2.right" timestamp="1600429255465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1541" height="494" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600429255465" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1600586240805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600586240805" />
+    <state x="681" y="261" width="564" height="524" key="StructurePopup" timestamp="1600602116710">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="564" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1600602116710" />
+    <state x="466" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600244416346">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="466" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1600244416346" />
+    <state width="3641" height="447" key="documentation.popup.size" timestamp="1600409162156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="3641" height="447" key="documentation.popup.size/0.0.1920.1040@0.0.1920.1040" timestamp="1600409162156" />
+    <state x="254" y="252" width="1251" height="556" key="new project wizard" timestamp="1600587625418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="254" y="252" width="1251" height="556" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600587625418" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1600586140514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600586140514" />
+    <state x="623" y="226" width="672" height="677" key="search.everywhere.popup" timestamp="1600601767254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="226" width="672" height="677" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600601767254" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.25/eureka-core-1.9.25-sources.jar!/com/netflix/eureka/EurekaBootStrap.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

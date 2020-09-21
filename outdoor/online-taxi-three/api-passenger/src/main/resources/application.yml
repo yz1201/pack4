@@ -1,0 +1,16 @@
+server:
+  port: 30999
+
+spring:
+  application:
+    name: api-passenger
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:40999/eureka/
+    registry-fetch-interval-seconds: 30
+#    enabled: false
+  instance:
+    lease-renewal-interval-in-seconds: 30
+logging:
+  level: debug

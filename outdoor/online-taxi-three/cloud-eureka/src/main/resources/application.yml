@@ -1,0 +1,45 @@
+#server:
+#  port: 40999
+spring:
+  application:
+    name: cloud-eureka
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+#      defaultZone: http://eureka-40999:40999/eureka/,http://eureka-41000:41000/eureka/,http://eureka-41001:41001/eureka/
+      defaultZone: http://localhost:40999/eureka/
+#  eureka 配置优化,从源码看起
+  server:
+    enable-self-preservation: false
+    renewal-percent-threshold: 0.85
+#    eviction-interval-timer-in-ms: 10000
+    use-read-only-response-cache: false
+#    response-cache-update-interval-ms: 1000
+  instance:
+    prefer-ip-address: true
+---
+spring:
+  profiles: 40999
+server:
+  port: 40999
+eureka:
+  instance:
+    hostname: eureka-40999
+---
+spring:
+  profiles: 41000
+server:
+  port: 41000
+eureka:
+  instance:
+    hostname: eureka-41000
+---
+spring:
+  profiles: 41001
+server:
+  port: 41001
+eureka:
+  instance:
+    hostname: eureka-41001
