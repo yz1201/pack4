@@ -1,0 +1,14 @@
+INSERT INTO `mashibing-sql-20201009`(`s_id`, `s_name`, `s_birth`, `s_sex`, `s_score`) VALUES ('04', '李云', '1990-08-06', '男', 50);
+INSERT INTO `mashibing-sql-20201009`(`s_id`, `s_name`, `s_birth`, `s_sex`, `s_score`) VALUES ('06', '吴兰', '1992-03-01', '女', 31);
+INSERT INTO `mashibing-sql-20201009`(`s_id`, `s_name`, `s_birth`, `s_sex`, `c_id`, `s_score`) VALUES ('04', '李云', '1990-08-06', '男', '01', 50);
+INSERT INTO `mashibing-sql-20201009`(`s_id`, `s_name`, `s_birth`, `s_sex`, `c_id`, `s_score`) VALUES ('06', '吴兰', '1992-03-01', '女', '01', 31);
+INSERT INTO `mashibing-sql-20201009`(`s_id`, ``, ``, ``, ``) VALUES ('07', NULL, 89, 98, 93.50);
+INSERT INTO `mashibing-sql-20201009`(`s_id`, ``, ``, ``, ``) VALUES ('01', 80, 90, 99, 89.67);
+INSERT INTO `mashibing-sql-20201009`(`s_id`, ``, ``, ``, ``) VALUES ('05', 76, 87, NULL, 81.50);
+INSERT INTO `mashibing-sql-20201009`(`s_id`, ``, ``, ``, ``) VALUES ('03', 80, 80, 80, 80.00);
+INSERT INTO `mashibing-sql-20201009`(`s_id`, ``, ``, ``, ``) VALUES ('02', 70, 60, 80, 70.00);
+INSERT INTO `mashibing-sql-20201009`(`s_id`, ``, ``, ``, ``) VALUES ('04', 50, 30, 20, 33.33);
+INSERT INTO `mashibing-sql-20201009`(`s_id`, ``, ``, ``, ``) VALUES ('06', 31, NULL, 34, 32.50);
+INSERT INTO `mashibing-sql-20201009`(`c_id`, `NAME`, ``, ``, ``, ``, ``, ``, ``, ``) VALUES ('01', '语文', 80, 31, 64.5000, 66.67, 66.67, 33.33, 0.00, 0.00);
+INSERT INTO `mashibing-sql-20201009`(`c_id`, `NAME`, ``, ``, ``, ``, ``, ``, ``, ``) VALUES ('02', '数学', 90, 30, 72.6667, 83.33, 16.67, 66.67, 16.67, 0.00);
+INSERT INTO `mashibing-sql-20201009`(`c_id`, `NAME`, ``, ``, ``, ``, ``, ``, ``, ``) VALUES ('03', '英语', 99, 20, 68.5000, 66.67, 33.33, 33.33, 33.33, 33.33);
